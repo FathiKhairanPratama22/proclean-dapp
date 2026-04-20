@@ -46,8 +46,8 @@ We envision a future where business-customer relationships are strengthened thro
 - **Network:** Stellar Testnet
 - **Contract Address:** `CAZ57U4TEYCGX6Z4KFI3PPJNPKZWI6XBYV7IESJNBEH7NYXXQDADK3PU`
 
-![ProClean Soroban Studio](INSERT_YOUR_SCREENSHOT_HERE.png)
-*(Note: Replace INSERT_YOUR_SCREENSHOT_HERE.png with the actual filename of your Soroban Studio screenshot)*
+<img width="954" height="531" alt="screenshot-deploy" src="https://github.com/user-attachments/assets/f9094983-d95b-45de-9824-06265dc03cb8" />
+
 
 ## Future Scope
 
